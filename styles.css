@@ -1,0 +1,66 @@
+:root {
+    --primary-100: #52a51a; 
+
+
+ }
+
+ :root {
+    --primary-102: #e20303; 
+
+
+ }
+ 
+ :root {
+    --primary-101: #0004ff; 
+ }
+
+
+
+ :root {
+    --primary-103: #000000; 
+
+
+ }
+
+ :root {
+    --primary-104: #b6d337fb; 
+
+
+ }
+
+ .color-primary-100 {
+     color: var(--primary-100); 
+ }
+
+ .color-primary-101 {
+    color: var(--primary-101); 
+}
+
+.color-primary-102 {
+    color: var(--primary-102); 
+}
+.color-primary-103 {
+    color: var(--primary-103); 
+}
+
+.color-primary-104 {
+    color: var(--primary-104); 
+}
+a:link {
+    color: pink;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+  
+
+ /* archivo style.css */
+body {
+    background-color: rgb(227, 243, 212); /* Cambia 'lightblue' por cualquier color que desees */
+  }
+  
